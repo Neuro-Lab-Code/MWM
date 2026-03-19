@@ -1,2 +1,2 @@
 # MWM
-NMDA-receptor dependent refinement of hippocampal spatial coding during allocentric spatial navigation learning 
+NMDA receptor-dependent Hebbian plasticity refines hippocampal spatial representations during two-dimensional navigation learning
